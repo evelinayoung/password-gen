@@ -1,5 +1,5 @@
 // Assignment code here
-
+var passwordamount = window.prompt ("Password Must Contatin 8-128 Charaters Choose Length of Password 8-128");
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
