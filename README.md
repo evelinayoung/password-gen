@@ -5,7 +5,7 @@ you should be able to answer prompts that will direct you to input what charater
 
 Using js the code is able to produce random charaters based on your inputs. 
 
-De0ploment URL:
+Deployment URL:
 
 https://evelinayoung.github.io/password-gen/
 
